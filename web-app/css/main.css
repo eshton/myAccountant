@@ -1,0 +1,17 @@
+body {
+    padding-top: 60px;
+}
+
+.container {
+	width:350px;
+}
+
+.page-header {
+    background-color: #F5F5F5;
+    margin: -20px -20px 20px;
+    padding: 20px 20px 10px;
+}
+
+div.error li{
+	color:white;
+}
