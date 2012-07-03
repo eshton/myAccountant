@@ -33,7 +33,7 @@ environments {
             url = "jdbc:mysql://localhost:3306/myaccountant?characterEncoding=UTF-8"
             driverClassName = "com.mysql.jdbc.Driver"
             username = "myaccountant"
-            password = "11aston11"
+            password = "myaccountant"
             logSql = false
         }
     }
